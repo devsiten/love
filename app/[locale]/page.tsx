@@ -59,15 +59,6 @@ export default function HomePage() {
             {t('heroText')}
           </p>
 
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 md:gap-6 animate-fade-in-up animate-delay-300">
-            <Link href={`/${locale}/contact`} className="btn-gold">
-              {t('cta')}
-            </Link>
-            <Link href={`/${locale}/orunmila`} className="btn-outline">
-              {t('learnMore')}
-            </Link>
-          </div>
 
           {/* Registration Badge */}
           <div className="mt-16 inline-flex items-center gap-2 px-6 py-3 bg-dark-900/80 border border-gold-700/30 rounded-full animate-fade-in animate-delay-400">

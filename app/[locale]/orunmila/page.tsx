@@ -14,22 +14,22 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 // The 16 Principal Odu (Oju Odu / Olodu)
 const oduMeji = [
-  { name: 'Ogbe Meji', yoruba: 'Ògbè Méjì', marks: ['|', '|', '|', '|'], element: 'Light/Day' },
-  { name: 'Oyeku Meji', yoruba: 'Òyěkú Méjì', marks: ['||', '||', '||', '||'], element: 'Darkness/Night' },
-  { name: 'Iwori Meji', yoruba: 'Ìwòrì Méjì', marks: ['||', '|', '|', '||'], element: 'Fire' },
-  { name: 'Odi Meji', yoruba: 'Òdí Méjì', marks: ['|', '||', '||', '|'], element: 'Water' },
-  { name: 'Irosun Meji', yoruba: 'Ìròsùn Méjì', marks: ['|', '||', '||', '||'], element: 'Blood/Life' },
-  { name: 'Oworin Meji', yoruba: 'Òwónrín Méjì', marks: ['||', '||', '|', '||'], element: 'Chaos' },
-  { name: 'Obara Meji', yoruba: 'Ọ̀bàrà Méjì', marks: ['|', '||', '||', '||'], element: 'Victory' },
-  { name: 'Okanran Meji', yoruba: 'Ọ̀kànràn Méjì', marks: ['||', '||', '||', '|'], element: 'Conflict' },
-  { name: 'Ogunda Meji', yoruba: 'Ògúndá Méjì', marks: ['|', '|', '|', '||'], element: 'Iron/War' },
-  { name: 'Osa Meji', yoruba: 'Ọ̀sá Méjì', marks: ['||', '|', '|', '|'], element: 'Wind/Change' },
-  { name: 'Ika Meji', yoruba: 'Ìká Méjì', marks: ['||', '|', '||', '||'], element: 'Wisdom' },
-  { name: 'Oturupon Meji', yoruba: 'Òtúrúpọ̀n Méjì', marks: ['||', '||', '|', '|'], element: 'Disease/Healing' },
-  { name: 'Otura Meji', yoruba: 'Òtúrá Méjì', marks: ['|', '||', '|', '|'], element: 'Prayer/Spirituality' },
-  { name: 'Irete Meji', yoruba: 'Ìrẹ̀tẹ̀ Méjì', marks: ['|', '|', '||', '|'], element: 'Force/Push' },
-  { name: 'Ose Meji', yoruba: 'Ọ̀ṣẹ́ Méjì', marks: ['|', '|', '||', '||'], element: 'Abundance' },
-  { name: 'Ofun Meji', yoruba: 'Òfún Méjì', marks: ['||', '||', '|', '|'], element: 'Creation/Death' },
+  { name: 'Eji Ogbe', yoruba: 'Èjì Ogbè', signs: [['I', 'I'], ['I', 'I'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Oyeku Meji', yoruba: 'Òyěkú Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Iwori Meji', yoruba: 'Ìwòrì Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['I', 'I']] },
+  { name: 'Odi Meji', yoruba: 'Òdí Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Irosun Meji', yoruba: 'Ìròsùn Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Owonrin Meji', yoruba: 'Òwónrín Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Obara Meji', yoruba: 'Ọ̀bàrà Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Okanran Meji', yoruba: 'Ọ̀kànràn Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Ogunda Meji', yoruba: 'Ògúndá Méjì', signs: [['I', 'I'], ['I', 'I'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Osa Meji', yoruba: 'Ọ̀sá Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Ika Meji', yoruba: 'Ìká Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
+  { name: 'Oturupon Meji', yoruba: 'Òtúrúpọ̀n Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Otura Meji', yoruba: 'Òtúrá Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Irete Meji', yoruba: 'Ìrẹ̀tẹ̀ Méjì', signs: [['I', 'I'], ['I', 'I'], ['II', 'II'], ['I', 'I']] },
+  { name: 'Ose Meji', yoruba: 'Ọ̀ṣẹ́ Méjì', signs: [['I', 'I'], ['II', 'II'], ['II', 'II'], ['I', 'I']] },
+  { name: 'Ofun Meji', yoruba: 'Òfún Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
 ];
 
 export default function OrunmilaPage() {
@@ -97,42 +97,34 @@ export default function OrunmilaPage() {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {oduMeji.map((odu, index) => (
-              <div key={odu.name} className="card-dark p-6 group hover:border-gold-500/50 transition-all duration-300">
+              <div key={odu.name} className="card-dark p-4 sm:p-6 group hover:border-gold-500/50 transition-all duration-300">
                 <div className="absolute top-0 left-0 w-full h-1 gold-bg transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 rounded-t-lg" />
 
                 {/* Odu Number */}
-                <div className="text-gold-600/50 font-display text-sm mb-3">
+                <div className="text-gold-600/50 font-display text-xs sm:text-sm mb-2 sm:mb-3">
                   {String(index + 1).padStart(2, '0')}
                 </div>
 
-                {/* Odu Signs */}
-                <div className="flex justify-center gap-1 mb-4">
-                  {odu.marks.map((mark, i) => (
-                    <div key={i} className="flex flex-col gap-0.5">
-                      {mark === '|' ? (
-                        <div className="w-6 h-3 bg-gold-500 rounded-sm" />
-                      ) : (
-                        <>
-                          <div className="w-2.5 h-3 bg-gold-500 rounded-sm" />
-                          <div className="w-2.5 h-3 bg-gold-500 rounded-sm ml-3.5 -mt-3" />
-                        </>
-                      )}
+                {/* Odu Signs - 4 rows, 2 columns each as I or II */}
+                <div className="flex flex-col items-center gap-1 mb-3 sm:mb-4">
+                  {odu.signs.map((row: string[], rowIndex: number) => (
+                    <div key={rowIndex} className="flex gap-3 sm:gap-4">
+                      {row.map((sign: string, colIndex: number) => (
+                        <span key={colIndex} className="font-mono text-gold-500 text-sm sm:text-base font-bold w-4 sm:w-5 text-center">
+                          {sign}
+                        </span>
+                      ))}
                     </div>
                   ))}
                 </div>
 
                 {/* Odu Name */}
-                <h3 className="font-display text-lg text-gold-400 tracking-wide mb-1 group-hover:text-gold-300 transition-colors">
+                <h3 className="font-display text-base sm:text-lg text-gold-400 tracking-wide mb-1 group-hover:text-gold-300 transition-colors">
                   {odu.name}
                 </h3>
-                <p className="font-serif text-dark-400 text-sm italic mb-2">
+                <p className="font-serif text-dark-400 text-xs sm:text-sm italic">
                   {odu.yoruba}
                 </p>
-
-                {/* Element */}
-                <div className="inline-block px-3 py-1 bg-gold-900/20 border border-gold-700/30 rounded-full">
-                  <span className="font-body text-xs text-gold-500">{odu.element}</span>
-                </div>
               </div>
             ))}
           </div>
