@@ -74,7 +74,7 @@ export default function HomePage() {
                 />
               </div>
             </div>
-            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">BABALAWO</p>
+            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">BABALAWO OJUADE KABIR</p>
           </div>
 
           {/* Registration Badge */}
