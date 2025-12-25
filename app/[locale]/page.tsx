@@ -66,7 +66,7 @@ export default function HomePage() {
                 priority
               />
             </div>
-            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">IFA PRIEST OJUADE KABIR</p>
+            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">{t('ifaPriest')}</p>
           </div>
 
           {/* Registration Badge */}

@@ -56,7 +56,7 @@ export default function AboutPage() {
                     priority
                   />
                 </div>
-                <p className="font-display text-gold-500 text-sm tracking-wider mt-4 text-center">IFA PRIEST OJUADE KABIR</p>
+                <p className="font-display text-gold-500 text-sm tracking-wider mt-4 text-center">{t('ifaPriest')}</p>
               </div>
             </div>
           </div>

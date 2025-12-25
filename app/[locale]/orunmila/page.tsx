@@ -15,21 +15,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 // The 16 Principal Odu (Oju Odu / Olodu)
 const oduMeji = [
   { name: 'Eji Ogbe', yoruba: 'Èjì Ogbè', signs: [['I', 'I'], ['I', 'I'], ['I', 'I'], ['I', 'I']] },
-  { name: 'Oyeku Meji', yoruba: 'Òyěkú Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['I', 'I']] },
+  { name: 'Oyeku Meji', yoruba: 'Òyěkú Méjì', signs: [['II', 'II'], ['II', 'II'], ['II', 'II'], ['II', 'II']] },
   { name: 'Iwori Meji', yoruba: 'Ìwòrì Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['II', 'II']] },
   { name: 'Odi Meji', yoruba: 'Òdí Méjì', signs: [['I', 'I'], ['II', 'II'], ['II', 'II'], ['I', 'I']] },
   { name: 'Irosun Meji', yoruba: 'Ìròsùn Méjì', signs: [['I', 'I'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
-  { name: 'Owonrin Meji', yoruba: 'Òwónrín Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['II', 'II']] },
-  { name: 'Obara Meji', yoruba: 'Ọ̀bàrà Méjì', signs: [['I', 'I'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
-  { name: 'Okanran Meji', yoruba: 'Ọ̀kànràn Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Owonrin Meji', yoruba: 'Òwónrín Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Obara Meji', yoruba: 'Ọ̀bàrà Méjì', signs: [['I', 'I'], ['II', 'II'], ['II', 'II'], ['II', 'II']] },
+  { name: 'Okanran Meji', yoruba: 'Ọ̀kànràn Méjì', signs: [['II', 'II'], ['II', 'II'], ['II', 'II'], ['I', 'I']] },
   { name: 'Ogunda Meji', yoruba: 'Ògúndá Méjì', signs: [['I', 'I'], ['I', 'I'], ['I', 'I'], ['II', 'II']] },
   { name: 'Osa Meji', yoruba: 'Ọ̀sá Méjì', signs: [['II', 'II'], ['I', 'I'], ['I', 'I'], ['I', 'I']] },
-  { name: 'Ika Meji', yoruba: 'Ìká Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
-  { name: 'Oturupon Meji', yoruba: 'Òtúrúpọ̀n Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
-  { name: 'Otura Meji', yoruba: 'Òtúrá Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
   { name: 'Irete Meji', yoruba: 'Ìrẹ̀tẹ̀ Méjì', signs: [['I', 'I'], ['I', 'I'], ['II', 'II'], ['I', 'I']] },
-  { name: 'Ose Meji', yoruba: 'Ọ̀ṣẹ́ Méjì', signs: [['I', 'I'], ['II', 'II'], ['II', 'II'], ['I', 'I']] },
-  { name: 'Ofun Meji', yoruba: 'Òfún Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
+  { name: 'Otura Meji', yoruba: 'Òtúrá Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['I', 'I']] },
+  { name: 'Oturupon Meji', yoruba: 'Òtúrúpọ̀n Méjì', signs: [['II', 'II'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Ose Meji', yoruba: 'Ọ̀ṣẹ́ Méjì', signs: [['I', 'I'], ['II', 'II'], ['I', 'I'], ['II', 'II']] },
+  { name: 'Ofun Meji', yoruba: 'Òfún Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['I', 'I']] },
+  { name: 'Ika Meji', yoruba: 'Ìká Méjì', signs: [['II', 'II'], ['I', 'I'], ['II', 'II'], ['II', 'II']] },
 ];
 
 export default function OrunmilaPage() {
