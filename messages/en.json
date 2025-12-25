@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "title": "Ifangbayelo Trado Medicare | Traditional Ifa Consultation",
+    "description": "Professional Ifa consultation, spiritual guidance, and herbal wisdom rooted in sacred Yoruba tradition. CAC Registered: 7053384"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "orunmila": "Orunmila & Ifa",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Traditional Ifa Consultation & Spiritual Guidance",
+    "heroText": "Where Ancient Wisdom Meets Your Destiny",
+    "cta": "Book Consultation",
+    "learnMore": "Discover Ifa",
+    "reg": "CAC REG NO: 7053384",
+    "services": {
+      "title": "Our Sacred Services",
+      "subtitle": "WHAT WE OFFER",
+      "divination": {
+        "title": "Ifa Divination",
+        "desc": "Access divine wisdom through the sacred oracle of Orunmila. Receive guidance specific to your life path."
+      },
+      "spiritual": {
+        "title": "Spiritual Guidance",
+        "desc": "Align with your destiny and find your true path. Connect with ancestral wisdom for life direction."
+      },
+      "herbal": {
+        "title": "Herbal Healing",
+        "desc": "Traditional remedies rooted in ancestral knowledge. Natural solutions for wellness and protection."
+      },
+      "advisory": {
+        "title": "Life Advisory",
+        "desc": "Wisdom for family, business, and major life decisions. Navigate challenges with ancient insight."
+      }
+    },
+    "why": {
+      "title": "Why Choose Ifangbayelo",
+      "authentic": {
+        "title": "Authentic Babalawo Practice",
+        "desc": "Genuine Ifa tradition passed down through sacred lineage"
+      },
+      "registered": {
+        "title": "CAC Registered Business",
+        "desc": "Legitimate, professional, and trustworthy service"
+      },
+      "confidential": {
+        "title": "Confidential Consultations",
+        "desc": "Your matters are handled with utmost discretion"
+      }
+    },
+    "cta2": {
+      "title": "Your Path to Clarity Awaits",
+      "text": "Take the first step. Consult with Ifa today.",
+      "button": "Start Your Journey"
+    }
+  },
+  "about": {
+    "title": "About Ifangbayelo",
+    "subtitle": "A Bridge to Ancient Wisdom",
+    "intro": "Ifangbayelo Trado Medicare stands as a beacon of authentic Yoruba traditional practice, offering guidance rooted in the sacred wisdom of Ifa.",
+    "story": {
+      "title": "Our Story",
+      "p1": "Founded with deep reverence for the Ifa tradition, Ifangbayelo Trado Medicare serves as a bridge between the ancient wisdom of our ancestors and the seekers of today.",
+      "p2": "We believe that the wisdom of Orunmila offers profound guidance for navigating the complexities of modern life."
+    },
+    "philosophy": {
+      "title": "Our Philosophy",
+      "text": "Ifa is not merely divination; it is a complete philosophy of life, encompassing ethics, health, community, and spiritual growth."
+    },
+    "gallery": {
+      "title": "Meet the Babalawo",
+      "subtitle": "TRADITIONAL ATTIRE"
+    },
+    "location": "Ijan Ekiti, Ekiti State, Nigeria",
+    "cta": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Traditional Wisdom for Modern Life",
+    "intro": "We offer services rooted in authentic Ifa tradition, tailored to meet your spiritual, emotional, and practical needs."
+  },
+  "orunmila": {
+    "title": "Orunmila & The Way of Ifa",
+    "subtitle": "Understanding the Source of Wisdom",
+    "intro": "Ifa is one of the world's oldest and most sophisticated systems of knowledge.",
+    "who": {
+      "title": "Who is Orunmila?",
+      "text": "Orunmila is the Orisa of wisdom, knowledge, and divination in Yoruba spirituality. He was present at creation and witnessed every destiny unfold."
+    },
+    "what": {
+      "title": "What is Ifa?",
+      "text": "Ifa is a comprehensive body of knowledge encompassing spirituality, philosophy, history, medicine, and ethics."
+    },
+    "odu": {
+      "title": "The 16 Principal Odu Ifa",
+      "subtitle": "OJU ODU MERINDINLOGUN",
+      "intro": "These are the 16 principal Odu (Oju Odu or Olodu), the foundation of the 256 Odu Ifa. Each carries profound wisdom and represents fundamental aspects of existence.",
+      "note": {
+        "title": "About the 256 Odu",
+        "text": "From these 16 principal Odu, all 240 Omo Odu (minor Odu) are derived through combination. Together, the 256 Odu form the complete corpus of Ifa, containing all wisdom about life, destiny, and the universe."
+      }
+    },
+    "cta": "Contact Ifangbayelo"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Begin Your Journey",
+    "intro": "We welcome all sincere seekers of wisdom. Reach out through WhatsApp, phone, or Facebook.",
+    "whatsapp": "Chat on WhatsApp",
+    "whatsappDesc": "Get quick responses and schedule consultations via WhatsApp messaging.",
+    "call": "Call Us",
+    "callDesc": "Speak directly with us for immediate assistance or inquiries.",
+    "facebook": "Follow Us",
+    "facebookDesc": "Connect with us on Facebook for updates and spiritual insights.",
+    "locationTitle": "Our Location",
+    "hours": {
+      "title": "Consultation Hours"
+    }
+  },
+  "footer": {
+    "tagline": "Wisdom from the Source of All Knowledge",
+    "registered": "Registered with Corporate Affairs Commission",
+    "reg": "CAC REG NO: 7053384",
+    "copyright": "© 2024 Ifangbayelo Trado Medicare. All Rights Reserved."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "title": "Ifangbayelo Trado Medicare | Ìfọ̀rọ̀wánilẹ́nuwò Ifá Àtọwọ́dọ́wọ́",
+    "description": "Ìfọ̀rọ̀wánilẹ́nuwò Ifá àkànṣe, ìtọ́sọ́nà ẹ̀mí, àti ọgbọ́n ewé tí ó gbilẹ̀ nínú àṣà Yorùbá. CAC: 7053384"
+  },
+  "nav": {
+    "home": "Ilé",
+    "about": "Nípa Wa",
+    "services": "Iṣẹ́ Wa",
+    "orunmila": "Ọ̀rúnmìlà àti Ifá",
+    "contact": "Kànsí Wa"
+  },
+  "home": {
+    "tagline": "Ìfọ̀rọ̀wánilẹ́nuwò Ifá àti Ìtọ́sọ́nà Ẹ̀mí",
+    "heroText": "Níbi Tí Ọgbọ́n Àtijọ́ Ti Pàdé Àyànmọ́ Rẹ",
+    "cta": "Ṣètò Ìpàdé",
+    "learnMore": "Mọ̀ Nípa Ifá",
+    "reg": "CAC REG NO: 7053384",
+    "services": {
+      "title": "Àwọn Iṣẹ́ Mímọ́ Wa",
+      "subtitle": "OHUN TÍ A Ń PÈSÈ",
+      "divination": {
+        "title": "Dídá Ifá",
+        "desc": "Wọlé sí ọgbọ́n àlùpayída nípasẹ̀ àfọwọ́fà Ọ̀rúnmìlà. Gba ìtọ́sọ́nà pàtó fún ọ̀nà ìgbésí ayé rẹ."
+      },
+      "spiritual": {
+        "title": "Ìtọ́sọ́nà Ẹ̀mí",
+        "desc": "Bá àyànmọ́ rẹ mu kí o sì rí ọ̀nà tòótọ́ rẹ. So pọ̀ mọ́ ọgbọ́n àwọn baba fún ìtọ́nà ìgbésí ayé."
+      },
+      "herbal": {
+        "title": "Ìwòsàn Ewé",
+        "desc": "Àwọn ògùn àtọwọ́dọ́wọ́ tí ó gbilẹ̀ nínú ìmọ̀ àwọn baba. Ojútùú àdáyéba fún ìlera àti àbò."
+      },
+      "advisory": {
+        "title": "Ìgbàníyànjú Ìgbésí Ayé",
+        "desc": "Ọgbọ́n fún ìdílé, iṣẹ́, àti àwọn ìpinnu pàtàkì. Bá àwọn ìpèníjà pẹ̀lú òye àtijọ́."
+      }
+    },
+    "why": {
+      "title": "Kí Nìdí Tí O Fi Yàn Ifangbayelo",
+      "authentic": {
+        "title": "Iṣẹ́ Babaláwo Tòótọ́",
+        "desc": "Àṣà Ifá gan-an tí wọ́n kó láti ìdílé mímọ́"
+      },
+      "registered": {
+        "title": "Iṣẹ́ Tí Wọ́n Forúkọ CAC",
+        "desc": "Iṣẹ́ tó bójúmu, tó ṣe dédé, tí a lè fọkàn tán"
+      },
+      "confidential": {
+        "title": "Ìfọ̀rọ̀wánilẹ́nuwò Àṣírí",
+        "desc": "Wọ́n ń tọ́jú ọ̀ràn rẹ pẹ̀lú ìkọ̀kọ̀ jíjinlẹ̀"
+      }
+    },
+    "cta2": {
+      "title": "Ọ̀nà Rẹ Sí Ìmọ̀lẹ̀ Ń Dúró",
+      "text": "Tẹ ìgbésẹ̀ àkọ́kọ́. Fọ̀rọ̀ wá Ifá lónìí.",
+      "button": "Bẹ̀rẹ̀ Ìrìn-àjò Rẹ"
+    }
+  },
+  "about": {
+    "title": "Nípa Ifangbayelo",
+    "subtitle": "Àfàrà sí Ọgbọ́n Àtijọ́",
+    "intro": "Ifangbayelo Trado Medicare dúró gẹ́gẹ́ bí ìmọ́lẹ̀ àṣà Yorùbá àtọwọ́dọ́wọ́ tó dájú.",
+    "story": {
+      "title": "Ìtàn Wa",
+      "p1": "A dá Ifangbayelo Trado Medicare pẹ̀lú ìbọ̀wọ̀ jíjinlẹ̀ fún àṣà Ifá, ó n ṣiṣẹ́ gẹ́gẹ́ bí àfàrà láàrin ọgbọ́n àtijọ́ àwọn baba ńlá wa àti àwọn tó n wá nìgbà yìí.",
+      "p2": "A gbàgbọ́ pé ọgbọ́n Ọ̀rúnmìlà n pèsè ìtọ́sọ́nà jíjinlẹ̀ fún bíbá àwọn ìṣòro ìgbésí ayé òde-òní."
+    },
+    "philosophy": {
+      "title": "Èròǹgbà Wa",
+      "text": "Ifá kìí ṣe àfọwọ́fà nìkan; ó jẹ́ èròǹgbà ìgbésí ayé tó pé, tó kan ìwà, ìlera, àwùjọ, àti ìdàgbàsókè ẹ̀mí."
+    },
+    "gallery": {
+      "title": "Pade Babaláwo",
+      "subtitle": "AṢỌKÈ ÀTỌWỌDỌWỌ"
+    },
+    "location": "Ijan Ekiti, Ìpínlẹ̀ Èkìtì, Nàìjíríà",
+    "cta": "Kànsí Wa"
+  },
+  "services": {
+    "title": "Iṣẹ́ Wa",
+    "subtitle": "Ọgbọ́n Àtọwọ́dọ́wọ́ fún Ìgbésí Ayé Òde-Òní",
+    "intro": "A pèsè iṣẹ́ tí ó gbilẹ̀ nínú àṣà Ifá tòótọ́, tí wọ́n ṣe láti bá àìní ẹ̀mí, ọkàn, àti iṣẹ́ rẹ."
+  },
+  "orunmila": {
+    "title": "Ọ̀rúnmìlà àti Ọ̀nà Ifá",
+    "subtitle": "Níní Òye Orísun Ọgbọ́n",
+    "intro": "Ifá jẹ́ ọ̀kan lára àwọn ètò ìmọ̀ tí ó dàgbà jù lọ àti tí ó ṣe dédé jù lọ ní ayé.",
+    "who": {
+      "title": "Ta ni Ọ̀rúnmìlà?",
+      "text": "Ọ̀rúnmìlà jẹ́ Òrìṣà ọgbọ́n, ìmọ̀, àti àfọwọ́fà nínú ẹ̀sìn Yorùbá. Ó wà níbẹ̀ nígbà ìdá ó sì rí gbogbo àyànmọ́ ṣípayá."
+    },
+    "what": {
+      "title": "Kí ni Ifá?",
+      "text": "Ifá jẹ́ àkójọpọ̀ ìmọ̀ tó péye tó kó ẹ̀mí, èròǹgbà, ìtàn, ìṣègùn, àti ìlànà ìwà."
+    },
+    "odu": {
+      "title": "Àwọn Odù Ifá Mẹ́rìndínlógún Àkọ́kọ́",
+      "subtitle": "OJU ODÙ MẸẸRÌNDÍNLÓGÚN",
+      "intro": "Ìwọ̀nyí ni àwọn Odù àkọ́kọ́ mẹ́rìndínlógún (Ojú Odù tàbí Olodu), ìpìlẹ̀ àwọn Odù Ifá igba ó lé mẹ́rìndínláàádọ́ta. Ọkọ̀ọ̀kan wọn gbé ọgbọ́n jíjinlẹ̀ àti ó ń ṣojú àwọn apá pàtàkì ìwà.",
+      "note": {
+        "title": "Nípa Odù 256 náà",
+        "text": "Láti àwọn Odù àkọ́kọ́ mẹ́rìndínlógún yìí, gbogbo Ọmọ Odù 240 (Odù kékeré) ni wọ́n ti yọ nípa àpapọ̀. Papọ̀, àwọn Odù 256 ṣe àkójọ Ifá tó péye, tó ní gbogbo ọgbọ́n nípa ìgbésí ayé, àyànmọ́, àti àgbáálá ayé."
+      }
+    },
+    "cta": "Kànsí Ifangbayelo"
+  },
+  "contact": {
+    "title": "Kànsí Wa",
+    "subtitle": "Bẹ̀rẹ̀ Ìrìn-àjò Rẹ",
+    "intro": "A káàbọ̀ gbogbo àwọn tó n wá ọgbọ́n pẹ̀lú òtítọ́. Bá wa sọ̀rọ̀ nípasẹ̀ WhatsApp, fóònù, tàbí Facebook.",
+    "whatsapp": "Bá Wa Sọ̀rọ̀ lórí WhatsApp",
+    "whatsappDesc": "Gba ìdáhùn kíákíá kí o sì ṣètò ìfọ̀rọ̀wánilẹ́nuwò nípasẹ̀ ìránṣẹ́ WhatsApp.",
+    "call": "Pe Wa",
+    "callDesc": "Bá wa sọ̀rọ̀ tààrà fún ìrànlọ́wọ́ lẹ́sẹ̀kẹsẹ̀ tàbí ìbéèrè.",
+    "facebook": "Tẹ̀lé Wa",
+    "facebookDesc": "Darapọ̀ mọ́ wa lórí Facebook fún àwọn ìróyìn àti òye ẹ̀mí.",
+    "locationTitle": "Ibi Tí A Wà",
+    "hours": {
+      "title": "Àkókò Ìfọ̀rọ̀wánilẹ́nuwò"
+    }
+  },
+  "footer": {
+    "tagline": "Ọgbọ́n láti Orísun Gbogbo Ìmọ̀",
+    "registered": "Wọ́n forúkọ sílẹ̀ pẹ̀lú Corporate Affairs Commission",
+    "reg": "CAC REG NO: 7053384",
+    "copyright": "© 2024 Ifangbayelo Trado Medicare. Gbogbo Ẹ̀tọ́ Ni A Pa Mọ́."
+  }
+}
