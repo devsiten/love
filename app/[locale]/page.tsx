@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { useTranslations, useLocale } from 'next-intl';
 
 export const runtime = 'edge';
@@ -55,10 +56,26 @@ export default function HomePage() {
           </div>
 
           {/* Hero Text */}
-          <p className="font-serif text-xl sm:text-2xl md:text-3xl text-dark-300 max-w-3xl mx-auto mb-12 leading-relaxed animate-fade-in-up animate-delay-200">
+          <p className="font-serif text-xl sm:text-2xl md:text-3xl text-dark-300 max-w-3xl mx-auto mb-8 leading-relaxed animate-fade-in-up animate-delay-200">
             {t('heroText')}
           </p>
 
+          {/* Babalawo Image */}
+          <div className="mb-8 animate-fade-in-up animate-delay-300">
+            <div className="relative w-48 h-60 sm:w-56 sm:h-72 md:w-64 md:h-80 mx-auto">
+              <div className="absolute inset-0 border-2 border-gold-500/50 rounded-lg transform translate-x-3 translate-y-3" />
+              <div className="relative w-full h-full rounded-lg overflow-hidden border-2 border-gold-500/30">
+                <Image
+                  src="/images/babalawo-3.jpg"
+                  alt="Babalawo"
+                  fill
+                  className="object-cover object-top"
+                  priority
+                />
+              </div>
+            </div>
+            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">BABALAWO</p>
+          </div>
 
           {/* Registration Badge */}
           <div className="mt-16 inline-flex items-center gap-2 px-6 py-3 bg-dark-900/80 border border-gold-700/30 rounded-full animate-fade-in animate-delay-400">
