@@ -18,11 +18,6 @@ export default function HomePage() {
         <div className="absolute inset-0 pattern-adinkra" />
         <div className="absolute inset-0 bg-gradient-to-t from-dark-950 via-transparent to-dark-950/50" />
 
-        {/* Corner frames */}
-        <div className="hidden md:block corner-frame corner-frame-tl" />
-        <div className="hidden md:block corner-frame corner-frame-tr" />
-        <div className="hidden md:block corner-frame corner-frame-bl" />
-        <div className="hidden md:block corner-frame corner-frame-br" />
 
         <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 text-center py-12">
           {/* Sacred Symbol */}
@@ -74,7 +69,7 @@ export default function HomePage() {
                 />
               </div>
             </div>
-            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">BABALAWO OJUADE KABIR</p>
+            <p className="font-display text-gold-500 text-sm tracking-wider mt-4">IFA PRIEST OJUADE KABIR</p>
           </div>
 
           {/* Registration Badge */}
