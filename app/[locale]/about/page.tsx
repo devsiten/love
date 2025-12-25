@@ -47,16 +47,16 @@ export default function AboutPage() {
             {/* Hero Image */}
             <div className="relative order-1 lg:order-2">
               <div className="relative w-64 h-80 sm:w-80 sm:h-96 mx-auto">
-                <div className="absolute inset-0 border-2 border-gold-500/50 rounded-lg transform translate-x-4 translate-y-4" />
                 <div className="relative w-full h-full rounded-lg overflow-hidden border-2 border-gold-500/30">
                   <Image
                     src="/images/babalawo-3.jpg"
-                    alt="Babalawo Ifangbayelo"
+                    alt="Ifa Priest Ojuade Kabir"
                     fill
                     className="object-cover object-top"
                     priority
                   />
                 </div>
+                <p className="font-display text-gold-500 text-sm tracking-wider mt-4 text-center">IFA PRIEST OJUADE KABIR</p>
               </div>
             </div>
           </div>
