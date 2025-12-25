@@ -35,7 +35,7 @@ export default function HomePage() {
           </p>
 
           {/* Main Business Name */}
-          <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-wider mb-4 animate-shimmer">
+          <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-wider mb-4 animate-glow-pulse">
             <span className="gold-text">IFANGBAYELO</span>
           </h1>
 

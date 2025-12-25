@@ -52,6 +52,7 @@ const config: Config = {
         'fade-in': 'fadeIn 0.8s ease-out forwards',
         'fade-in-up': 'fadeInUp 0.8s ease-out forwards',
         'scale-in': 'scaleIn 0.6s ease-out forwards',
+        'glow-pulse': 'glowPulse 3s ease-in-out infinite',
       },
       keyframes: {
         shimmer: {
@@ -73,6 +74,16 @@ const config: Config = {
         scaleIn: {
           '0%': { opacity: '0', transform: 'scale(0.9)' },
           '100%': { opacity: '1', transform: 'scale(1)' },
+        },
+        glowPulse: {
+          '0%, 100%': {
+            textShadow: '0 0 10px rgba(212, 168, 83, 0.5), 0 0 20px rgba(212, 168, 83, 0.3), 0 0 30px rgba(212, 168, 83, 0.1)',
+            opacity: '1'
+          },
+          '50%': {
+            textShadow: '0 0 20px rgba(212, 168, 83, 0.8), 0 0 40px rgba(212, 168, 83, 0.5), 0 0 60px rgba(212, 168, 83, 0.3)',
+            opacity: '0.9'
+          },
         },
       },
     },

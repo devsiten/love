@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useTranslations, useLocale } from 'next-intl';
 import { usePathname } from 'next/navigation';
 import { locales, type Locale } from '@/i18n';
@@ -33,8 +34,14 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href={`/${locale}`} className="flex items-center gap-3 group">
-            <div className="w-10 h-10 md:w-12 md:h-12 rounded-full gold-bg flex items-center justify-center shadow-lg shadow-gold-900/50">
-              <span className="font-display text-dark-950 text-lg md:text-xl font-bold">I</span>
+            <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-gold-500/50 shadow-lg shadow-gold-900/50">
+              <Image
+                src="/images/babalawo-1.jpg"
+                alt="Ifangbayelo"
+                width={48}
+                height={48}
+                className="w-full h-full object-cover object-top"
+              />
             </div>
             <div className="hidden sm:block">
               <span className="font-display text-sm md:text-base tracking-widest gold-text font-semibold">
