@@ -6,7 +6,8 @@ import { useTranslations, useLocale } from 'next-intl';
 export const runtime = 'edge';
 export const dynamic = 'force-dynamic';
 
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'orunmila' });
   return { title: t('title'), description: t('intro') };
 }
