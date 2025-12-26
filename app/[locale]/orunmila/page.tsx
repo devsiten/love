@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getTranslations } from 'next-intl/server';
 import { useTranslations, useLocale } from 'next-intl';
 
@@ -45,10 +46,14 @@ export default function OrunmilaPage() {
 
         <div className="relative z-10 container-custom text-center">
           <div className="mb-8 animate-float">
-            <div className="inline-flex items-center justify-center w-24 h-24 rounded-full border-2 border-gold-500/50 bg-dark-900/50">
-              <div className="w-16 h-16 rounded-full gold-bg flex items-center justify-center shadow-2xl">
-                <span className="font-display text-dark-950 text-3xl font-bold">Ọ̀</span>
-              </div>
+            <div className="inline-flex items-center justify-center w-24 h-24 rounded-full border-2 border-gold-500/50 bg-dark-900/50 overflow-hidden">
+              <Image
+                src="/images/babalawo-2.jpg"
+                alt="Babalawo"
+                width={96}
+                height={96}
+                className="w-full h-full object-cover object-top"
+              />
             </div>
           </div>
           <p className="font-display text-gold-500 tracking-[0.3em] text-sm mb-4">{t('subtitle')}</p>

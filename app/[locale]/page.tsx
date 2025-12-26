@@ -22,10 +22,14 @@ export default function HomePage() {
         <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 text-center py-12">
           {/* Sacred Symbol */}
           <div className="mb-8 animate-float">
-            <div className="inline-flex items-center justify-center w-24 h-24 md:w-32 md:h-32 rounded-full border-2 border-gold-500/50 bg-dark-900/50 backdrop-blur">
-              <div className="w-16 h-16 md:w-24 md:h-24 rounded-full gold-bg flex items-center justify-center shadow-2xl shadow-gold-500/30">
-                <span className="font-display text-dark-950 text-3xl md:text-5xl font-bold">Ọ̀</span>
-              </div>
+            <div className="inline-flex items-center justify-center w-24 h-24 md:w-32 md:h-32 rounded-full border-2 border-gold-500/50 bg-dark-900/50 backdrop-blur overflow-hidden">
+              <Image
+                src="/images/babalawo-2.jpg"
+                alt="Ifangbayelo"
+                width={128}
+                height={128}
+                className="w-full h-full object-cover object-top"
+              />
             </div>
           </div>
 
