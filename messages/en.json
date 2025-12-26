@@ -18,8 +18,8 @@
     "reg": "CAC REG NO: 7053384",
     "ifaPriest": "IFA PRIEST OJUADE KABIR",
     "services": {
-      "title": "Our Sacred Services",
-      "subtitle": "WHAT WE OFFER",
+      "title": "My Sacred Services",
+      "subtitle": "WHAT I OFFER",
       "divination": {
         "title": "Ifa Divination",
         "desc": "Access divine wisdom through the sacred oracle of Orunmila. Receive guidance specific to your life path."
@@ -63,12 +63,12 @@
     "subtitle": "A Bridge to Ancient Wisdom",
     "intro": "Ifangbayelo Trado Medicare stands as a beacon of authentic Yoruba traditional practice, offering guidance rooted in the sacred wisdom of Ifa.",
     "story": {
-      "title": "Our Story",
-      "p1": "Founded with deep reverence for the Ifa tradition, Ifangbayelo Trado Medicare serves as a bridge between the ancient wisdom of our ancestors and the seekers of today.",
-      "p2": "We believe that the wisdom of Orunmila offers profound guidance for navigating the complexities of modern life."
+      "title": "My Story",
+      "p1": "Founded with deep reverence for the Ifa tradition, Ifangbayelo Trado Medicare serves as a bridge between the ancient wisdom of my ancestors and the seekers of today.",
+      "p2": "I believe that the wisdom of Orunmila offers profound guidance for navigating the complexities of modern life."
     },
     "philosophy": {
-      "title": "Our Philosophy",
+      "title": "My Philosophy",
       "text": "Ifa is not merely divination; it is a complete philosophy of life, encompassing ethics, health, community, and spiritual growth."
     },
     "gallery": {
@@ -77,12 +77,12 @@
     },
     "location": "Ijan Ekiti, Ekiti State, Nigeria",
     "ifaPriest": "IFA PRIEST OJUADE KABIR",
-    "cta": "Contact Us"
+    "cta": "Contact Me"
   },
   "services": {
-    "title": "Our Services",
+    "title": "My Services",
     "subtitle": "Traditional Wisdom for Modern Life",
-    "intro": "We offer services rooted in authentic Ifa tradition, tailored to meet your spiritual, emotional, and practical needs."
+    "intro": "I offer services rooted in authentic Ifa tradition, tailored to meet your spiritual, emotional, and practical needs."
   },
   "orunmila": {
     "title": "Orunmila & The Way of Ifa",
@@ -108,16 +108,16 @@
     "cta": "Contact Ifangbayelo"
   },
   "contact": {
-    "title": "Contact Us",
+    "title": "Contact Me",
     "subtitle": "Begin Your Journey",
-    "intro": "We welcome all sincere seekers of wisdom. Reach out through WhatsApp, phone, or Facebook.",
+    "intro": "I welcome all sincere seekers of wisdom. Reach out through WhatsApp, phone, or Facebook.",
     "whatsapp": "Chat on WhatsApp",
     "whatsappDesc": "Get quick responses and schedule consultations via WhatsApp messaging.",
-    "call": "Call Us",
-    "callDesc": "Speak directly with us for immediate assistance or inquiries.",
-    "facebook": "Follow Us",
-    "facebookDesc": "Connect with us on Facebook for updates and spiritual insights.",
-    "locationTitle": "Our Location",
+    "call": "Call Me",
+    "callDesc": "Speak directly with me for immediate assistance or inquiries.",
+    "facebook": "Follow Me",
+    "facebookDesc": "Connect with me on Facebook for updates and spiritual insights.",
+    "locationTitle": "My Location",
     "hours": {
       "title": "Consultation Hours"
     }

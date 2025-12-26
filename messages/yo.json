@@ -5,10 +5,10 @@
   },
   "nav": {
     "home": "Ilé",
-    "about": "Nípa Wa",
-    "services": "Iṣẹ́ Wa",
+    "about": "Nípa Mi",
+    "services": "Iṣẹ́ Mi",
     "orunmila": "Ọ̀rúnmìlà àti Ifá",
-    "contact": "Kànsí Wa"
+    "contact": "Kànsí Mi"
   },
   "home": {
     "tagline": "Ìfọ̀rọ̀wánilẹ́nuwò Ifá àti Ìtọ́sọ́nà Ẹ̀mí",
@@ -18,8 +18,8 @@
     "reg": "CAC REG NO: 7053384",
     "ifaPriest": "BABALAWO OJUADE KABIR",
     "services": {
-      "title": "Àwọn Iṣẹ́ Mímọ́ Wa",
-      "subtitle": "OHUN TÍ A Ń PÈSÈ",
+      "title": "Àwọn Iṣẹ́ Mímọ́ Mi",
+      "subtitle": "OHUN TÍ MO Ń PÈSÈ",
       "divination": {
         "title": "Dídá Ifá",
         "desc": "Wọlé sí ọgbọ́n àlùpayída nípasẹ̀ àfọwọ́fà Ọ̀rúnmìlà. Gba ìtọ́sọ́nà pàtó fún ọ̀nà ìgbésí ayé rẹ."
@@ -63,12 +63,12 @@
     "subtitle": "Àfàrà sí Ọgbọ́n Àtijọ́",
     "intro": "Ifangbayelo Trado Medicare dúró gẹ́gẹ́ bí ìmọ́lẹ̀ àṣà Yorùbá àtọwọ́dọ́wọ́ tó dájú.",
     "story": {
-      "title": "Ìtàn Wa",
-      "p1": "A dá Ifangbayelo Trado Medicare pẹ̀lú ìbọ̀wọ̀ jíjinlẹ̀ fún àṣà Ifá, ó n ṣiṣẹ́ gẹ́gẹ́ bí àfàrà láàrin ọgbọ́n àtijọ́ àwọn baba ńlá wa àti àwọn tó n wá nìgbà yìí.",
-      "p2": "A gbàgbọ́ pé ọgbọ́n Ọ̀rúnmìlà n pèsè ìtọ́sọ́nà jíjinlẹ̀ fún bíbá àwọn ìṣòro ìgbésí ayé òde-òní."
+      "title": "Ìtàn Mi",
+      "p1": "Mo dá Ifangbayelo Trado Medicare pẹ̀lú ìbọ̀wọ̀ jíjinlẹ̀ fún àṣà Ifá, ó n ṣiṣẹ́ gẹ́gẹ́ bí àfàrà láàrin ọgbọ́n àtijọ́ àwọn baba ńlá mi àti àwọn tó n wá nìgbà yìí.",
+      "p2": "Mo gbàgbọ́ pé ọgbọ́n Ọ̀rúnmìlà n pèsè ìtọ́sọ́nà jíjinlẹ̀ fún bíbá àwọn ìṣòro ìgbésí ayé òde-òní."
     },
     "philosophy": {
-      "title": "Èròǹgbà Wa",
+      "title": "Èròǹgbà Mi",
       "text": "Ifá kìí ṣe àfọwọ́fà nìkan; ó jẹ́ èròǹgbà ìgbésí ayé tó pé, tó kan ìwà, ìlera, àwùjọ, àti ìdàgbàsókè ẹ̀mí."
     },
     "gallery": {
@@ -77,12 +77,12 @@
     },
     "location": "Ijan Ekiti, Ìpínlẹ̀ Èkìtì, Nàìjíríà",
     "ifaPriest": "BABALAWO OJUADE KABIR",
-    "cta": "Kànsí Wa"
+    "cta": "Kànsí Mi"
   },
   "services": {
-    "title": "Iṣẹ́ Wa",
+    "title": "Iṣẹ́ Mi",
     "subtitle": "Ọgbọ́n Àtọwọ́dọ́wọ́ fún Ìgbésí Ayé Òde-Òní",
-    "intro": "A pèsè iṣẹ́ tí ó gbilẹ̀ nínú àṣà Ifá tòótọ́, tí wọ́n ṣe láti bá àìní ẹ̀mí, ọkàn, àti iṣẹ́ rẹ."
+    "intro": "Mo pèsè iṣẹ́ tí ó gbilẹ̀ nínú àṣà Ifá tòótọ́, tí wọ́n ṣe láti bá àìní ẹ̀mí, ọkàn, àti iṣẹ́ rẹ."
   },
   "orunmila": {
     "title": "Ọ̀rúnmìlà àti Ọ̀nà Ifá",
@@ -108,16 +108,16 @@
     "cta": "Kànsí Ifangbayelo"
   },
   "contact": {
-    "title": "Kànsí Wa",
+    "title": "Kànsí Mi",
     "subtitle": "Bẹ̀rẹ̀ Ìrìn-àjò Rẹ",
-    "intro": "A káàbọ̀ gbogbo àwọn tó n wá ọgbọ́n pẹ̀lú òtítọ́. Bá wa sọ̀rọ̀ nípasẹ̀ WhatsApp, fóònù, tàbí Facebook.",
-    "whatsapp": "Bá Wa Sọ̀rọ̀ lórí WhatsApp",
+    "intro": "Mo káàbọ̀ gbogbo àwọn tó n wá ọgbọ́n pẹ̀lú òtítọ́. Bá mi sọ̀rọ̀ nípasẹ̀ WhatsApp, fóònù, tàbí Facebook.",
+    "whatsapp": "Bá Mi Sọ̀rọ̀ lórí WhatsApp",
     "whatsappDesc": "Gba ìdáhùn kíákíá kí o sì ṣètò ìfọ̀rọ̀wánilẹ́nuwò nípasẹ̀ ìránṣẹ́ WhatsApp.",
-    "call": "Pe Wa",
-    "callDesc": "Bá wa sọ̀rọ̀ tààrà fún ìrànlọ́wọ́ lẹ́sẹ̀kẹsẹ̀ tàbí ìbéèrè.",
-    "facebook": "Tẹ̀lé Wa",
-    "facebookDesc": "Darapọ̀ mọ́ wa lórí Facebook fún àwọn ìróyìn àti òye ẹ̀mí.",
-    "locationTitle": "Ibi Tí A Wà",
+    "call": "Pe Mi",
+    "callDesc": "Bá mi sọ̀rọ̀ tààrà fún ìrànlọ́wọ́ lẹ́sẹ̀kẹsẹ̀ tàbí ìbéèrè.",
+    "facebook": "Tẹ̀lé Mi",
+    "facebookDesc": "Darapọ̀ mọ́ mi lórí Facebook fún àwọn ìróyìn àti òye ẹ̀mí.",
+    "locationTitle": "Ibi Tí Mo Wà",
     "hours": {
       "title": "Àkókò Ìfọ̀rọ̀wánilẹ́nuwò"
     }
